@@ -1,0 +1,59 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+### Build Output ###
+out/
+target/
+build/
+dist/
+bin/
+
+### IntelliJ ###
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### OS Files ###
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+### Logs ###
+*.log
+logs/
+
+### Dependency Caches ###
+.gradle/
+*.cache
+
+### Other IDEs ###
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
